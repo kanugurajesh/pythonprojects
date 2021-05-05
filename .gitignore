@@ -1,1 +1,2 @@
-pythonproject4/
+*.*
+!*.py
